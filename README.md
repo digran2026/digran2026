@@ -167,22 +167,22 @@ Improve
 <table>
   <tr>
     <td align="center" width="25%">
-      🔐<br/>
+      <img width="64" height="64" src="https://img.icons8.com/glyph-neue/64/fraud.png" alt="fraud"/><br/>
       <strong>Cybersecurity</strong><br/>
       <sub>Security, vulnerabilities, defense & ethical testing</sub>
     </td>
     <td align="center" width="25%">
-      🕵️<br/>
+      <img width="64" height="64" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-forensics-accounting-flaticons-flat-flat-icons-2.png" alt="external-forensics-accounting-flaticons-flat-flat-icons-2"/><br/>
       <strong>Digital Forensics</strong><br/>
       <sub>Evidence, investigation & forensic analysis</sub>
     </td>
     <td align="center" width="25%">
-      🌐<br/>
+      <img width="48" height="48" src="https://img.icons8.com/fluency/48/multicast.png" alt="multicast"/><br/>
       <strong>Networking</strong><br/>
       <sub>Protocols, traffic & infrastructure</sub>
     </td>
     <td align="center" width="25%">
-      💻<br/>
+      <img width="100" height="100" src="https://img.icons8.com/avantgarde/100/code.png" alt="code"/><br/>
       <strong>Programming</strong><br/>
       <sub>Automation, scripting & security tooling</sub>
     </td>
@@ -435,6 +435,15 @@ Security knowledge should be developed responsibly and applied only within envir
   <sub>
     Student-led technical learning • Cybersecurity • Digital Forensics
   </sub>
+</p>
+
+<p align="center">
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/new-post.png" alt="new-post"/>
+  &nbsp;info@kemu.ac.ke&nbsp;&nbsp;&nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/new-post.png" alt="new-post"/>
+  &nbsp;customercare@kemu.ac.ke&nbsp;&nbsp;&nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/apple-phone.png" alt="apple-phone"/>
+  &nbsp;+254724256162
 </p>
 
 ---
