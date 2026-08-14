@@ -39,20 +39,11 @@
       alt="Kenya Methodist University Website"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://digran.cloudlfare.pay">
-    <img
-      width="48"
-      height="48"
-      src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-cloudflare-provides-content-delivery-network-services-ddos-mitigation-logo-color-tal-revivo.png"
-      alt="DIGRAN Cloudflare"
-    />
-  </a>
 </p>
 
 <p align="center">
   <sub>
-    Kenya Methodist University • DIGRAN Infrastructure
+    Kenya Methodist University
   </sub>
 </p>
 
@@ -185,3 +176,349 @@ Improve
 ```
 
 > **DIGRAN is not just a repository. It is a technical journey.**
+
+---
+
+## `> areas_of_focus`
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      🔐<br/>
+      <strong>Cybersecurity</strong><br/>
+      <sub>Security, vulnerabilities, defense & ethical testing</sub>
+    </td>
+    <td align="center" width="25%">
+      🕵️<br/>
+      <strong>Digital Forensics</strong><br/>
+      <sub>Evidence, investigation & forensic analysis</sub>
+    </td>
+    <td align="center" width="25%">
+      🌐<br/>
+      <strong>Networking</strong><br/>
+      <sub>Protocols, traffic & infrastructure</sub>
+    </td>
+    <td align="center" width="25%">
+      💻<br/>
+      <strong>Programming</strong><br/>
+      <sub>Automation, scripting & security tooling</sub>
+    </td>
+  </tr>
+</table>
+
+### Core interests
+
+```text
+Cybersecurity
+├── Network Security
+├── Web Security
+├── System Security
+├── Vulnerability Analysis
+├── Security Monitoring
+└── Ethical Security Testing
+
+Digital Forensics
+├── Disk Forensics
+├── File-System Analysis
+├── Memory Forensics
+├── Network Forensics
+├── Timeline Analysis
+└── Evidence Investigation
+
+Networking
+├── TCP/IP
+├── DNS
+├── DHCP
+├── Routing
+├── Packet Analysis
+└── Network Security
+
+Programming
+├── Python
+├── Bash
+├── Automation
+├── Data Processing
+└── Security Tooling
+```
+
+---
+
+## `> technology_stack`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-203A43?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Digital%20Forensics-2C5364?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+> The technology stack will evolve as new laboratories, projects and research are added.
+
+---
+
+## `> practical_labs`
+
+DIGRAN is designed around **hands-on learning**.
+
+Practical laboratory work may include:
+
+| Laboratory                | Purpose                                            |
+| -------------------------- | --------------------------------------------------- |
+| 🌐 Network Analysis       | Understand and investigate network traffic         |
+| 🔐 Security Testing       | Explore vulnerabilities in controlled environments |
+| 🐧 Linux Security         | Study system security and administration           |
+| 🕵️ Digital Forensics      | Acquire and analyze digital evidence               |
+| 🧪 Incident Investigation | Reconstruct security events                        |
+| 📦 Packet Analysis        | Examine network communications                     |
+| ⚙️ Security Automation    | Automate repetitive security tasks                 |
+| 🔬 Experimental Labs      | Test concepts and document findings                |
+
+All practical security testing should be conducted within **authorized and controlled environments**.
+
+---
+
+## `> projects`
+
+Projects within DIGRAN will represent practical applications of the concepts being studied.
+
+Each significant project should aim to document:
+
+```text
+Objective
+   ↓
+Environment
+   ↓
+Architecture
+   ↓
+Implementation
+   ↓
+Testing
+   ↓
+Security Considerations
+   ↓
+Results
+   ↓
+Lessons Learned
+   ↓
+Future Improvements
+```
+
+> Projects will be continuously added, reviewed and improved as the DIGRAN workspace develops.
+
+---
+
+## `> research`
+
+Research is an important part of the DIGRAN ecosystem.
+
+Potential research areas include:
+
+- 🔎 Vulnerability research
+- 🕵️ Digital forensic investigations
+- 🌐 Network security analysis
+- 🛡️ Defensive security
+- 🧪 Security experimentation
+- 🤖 Security automation
+- 📊 Technical comparisons
+- 📚 Literature and technical research
+
+Research entries should prioritize **evidence, methodology, reproducibility and clear documentation**.
+
+---
+
+## `> documentation`
+
+Documentation is treated as part of the technical work rather than an afterthought.
+
+A DIGRAN technical write-up should answer:
+
+```text
+What was the objective?
+        ↓
+What environment was used?
+        ↓
+What methodology was followed?
+        ↓
+What happened?
+        ↓
+What evidence was collected?
+        ↓
+What was discovered?
+        ↓
+What can be improved?
+```
+
+The goal is to make practical work understandable to another student who encounters it later.
+
+---
+
+## `> roadmap`
+
+```text
+[████████████████████]  Foundation
+        │
+        ├── Repository established
+        ├── README identity established
+        ├── GitHub Actions configured
+        └── Contribution visualizations deployed
+        │
+        ▼
+[██████████████------]  Practical Development
+        │
+        ├── Cybersecurity laboratories
+        ├── Digital forensics laboratories
+        ├── Networking exercises
+        └── Programming & automation
+        │
+        ▼
+[██████████----------]  Project Development
+        │
+        ├── Security tools
+        ├── Research projects
+        ├── Technical write-ups
+        └── Reproducible experiments
+        │
+        ▼
+[████----------------]  Knowledge Archive
+        │
+        ├── Organized documentation
+        ├── Project catalogue
+        ├── Research archive
+        └── Long-term technical portfolio
+```
+
+---
+
+## `> principles`
+
+DIGRAN follows a few simple principles:
+
+```text
+Learn before exploiting.
+Understand before automating.
+Preserve evidence.
+Document the process.
+Reproduce the result.
+Respect authorization.
+Improve continuously.
+```
+
+Security knowledge should be developed responsibly and applied only within environments where appropriate authorization exists.
+
+---
+
+## `> roadmap_status`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Repository-Active-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learning-Continuous-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Research-Developing-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Documentation-Active-informational?style=for-the-badge"/>
+</p>
+
+---
+
+## `> institution`
+
+<p align="center">
+  <strong>Kenya Methodist University</strong>
+</p>
+
+<p align="center">
+  <a href="https://kemu.ac.ke">
+    <img
+      width="48"
+      height="48"
+      src="https://img.icons8.com/color/48/domain--v1.png"
+      alt="Kenya Methodist University Website"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <sub>
+    Student-led technical learning • Cybersecurity • Digital Forensics
+  </sub>
+</p>
+
+---
+
+## `> support`
+
+<p align="center">
+  <a href="http://digran.cloudflare.pay">
+    <img
+      src="https://img.shields.io/badge/☕%20Support%20DIGRAN-Donate-2c5364?style=for-the-badge"
+      alt="Support DIGRAN"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <sub>
+    Optional donations help cover DIGRAN's hosting and infrastructure costs
+  </sub>
+</p>
+
+---
+
+## `> status`
+
+```text
+DIGRAN STATUS
+────────────────────────────────────────
+Repository        ██████████  Active
+Cybersecurity     ████████░░  Learning
+Digital Forensics ████████░░  Learning
+Networking        ███████░░░  Building
+Programming       ███████░░░  Building
+Research          ██████░░░░  Developing
+Documentation     █████████░  Active
+────────────────────────────────────────
+```
+
+> **Learning → Building → Investigating → Documenting**
+
+---
+
+## `> milestones`
+
+- [x] Establish DIGRAN identity
+- [x] Build README foundation
+- [x] Add animated visual identity
+- [x] Add 3D contribution visualization
+- [x] Add contribution activity visualization
+- [x] Establish technical areas
+- [x] Establish documentation philosophy
+- [ ] Document practical laboratories
+- [ ] Rebuild and document projects
+- [ ] Develop security tooling
+- [ ] Publish research
+- [ ] Build a structured knowledge archive
+
+---
+
+<p align="center">
+  <strong>DIGRAN</strong>
+</p>
+
+<p align="center">
+  <sub>
+    Cybersecurity • Digital Forensics • Practical Labs • Research
+  </sub>
+</p>
+
+<p align="center">
+  <sub>
+    Learn → Build → Break → Investigate → Document → Improve
+  </sub>
+</p>
