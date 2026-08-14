@@ -30,23 +30,6 @@
   />
 </p>
 
-<p align="center">
-  <a href="https://kemu.ac.ke">
-    <img
-      width="48"
-      height="48"
-      src="https://img.icons8.com/color/48/domain--v1.png"
-      alt="Kenya Methodist University Website"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <sub>
-    Kenya Methodist University
-  </sub>
-</p>
-
 ---
 
 ## `> whoami`
@@ -442,6 +425,10 @@ Security knowledge should be developed responsibly and applied only within envir
       alt="Kenya Methodist University Logo"
     />
   </a>
+</p>
+
+<p align="center">
+  <em>Laborare Est Orare</em>
 </p>
 
 <p align="center">
