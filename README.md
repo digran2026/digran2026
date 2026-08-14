@@ -436,10 +436,10 @@ Security knowledge should be developed responsibly and applied only within envir
 <p align="center">
   <a href="https://kemu.ac.ke">
     <img
-      width="48"
-      height="48"
-      src="https://img.icons8.com/color/48/domain--v1.png"
-      alt="Kenya Methodist University Website"
+      src="./assets/kemu-logo.png"
+      width="80"
+      height="80"
+      alt="Kenya Methodist University Logo"
     />
   </a>
 </p>
