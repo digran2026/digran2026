@@ -1,6 +1,6 @@
 name: Generate 3D Contribution Graph
 
-on:
+"on":
   schedule:
     - cron: "0 18 * * *"
   workflow_dispatch: {}
