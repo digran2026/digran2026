@@ -1,32 +1,10 @@
-name: Generate Contribution Snake
+name: DIGRAN Contribution Snake
 
-on:
-  schedule:
-    - cron: "0 18 * * *"
-  workflow_dispatch:
+on: workflow_dispatch
 
 jobs:
-  build:
+  test:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
-
     steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Publish snake animation
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-          target_branch: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Test workflow
+        run: echo "DIGRAN workflow is working"
