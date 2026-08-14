@@ -1,16 +1,54 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=DIGRAN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</p>
 
-<!--
-**digran2026/digran2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>CYBERSECURITY • DIGITAL FORENSICS • PRACTICAL LABS • RESEARCH</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Kenya%20Methodist%20University-Student%20Lab-0f2027?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-Active-203a43?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Digital%20Forensics-Active-2c5364?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-111827?style=for-the-badge"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## `> whoami`
+
+**DIGRAN** is a student-led cybersecurity and digital forensics workspace created by students at **Kenya Methodist University (KeMU)**.
+
+This repository ecosystem serves as a practical environment for:
+
+- 🔐 Cybersecurity
+- 🕵️ Digital forensics
+- 🌐 Networking
+- 💻 Programming and automation
+- 🧪 Security experimentation
+- 📚 Lecturer-guided practicals
+- 🚀 Independent projects
+- 🔬 Research and technical exploration
+
+> **Learn → Build → Break → Investigate → Document → Improve**
+
+---
+
+## `> mission`
+
+DIGRAN is a growing technical archive documenting the practical journey through **Cybersecurity and Digital Forensics**.
+
+The objective is simple:
+
+```text
+Understand the technology
+        ↓
+Understand how it can fail
+        ↓
+Understand how it can be attacked
+        ↓
+Understand how attacks can be investigated
+        ↓
+Build better defensive solutions
+        ↓
+Document everything
