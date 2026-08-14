@@ -438,9 +438,9 @@ Security knowledge should be developed responsibly and applied only within envir
 </p>
 
 <p align="center">
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/new-post.png" alt="new-post"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
   &nbsp;info@kemu.ac.ke&nbsp;&nbsp;&nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/new-post.png" alt="new-post"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
   &nbsp;customercare@kemu.ac.ke&nbsp;&nbsp;&nbsp;
   <img width="48" height="48" src="https://img.icons8.com/color/48/apple-phone.png" alt="apple-phone"/>
   &nbsp;+254724256162
